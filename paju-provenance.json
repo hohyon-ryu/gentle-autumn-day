@@ -1,0 +1,20 @@
+{
+  "generated": [
+    {
+      "file": "assets/family-picnic.webp",
+      "generator": "Codex native image_gen",
+      "kind": "AI-generated imagined family outing",
+      "originals_published": false,
+      "date": "2026-09-13"
+    }
+  ],
+  "route_schematic": {
+    "file": "assets/paju-route.svg",
+    "source_pages": [
+      "https://access.visitkorea.or.kr/ms/detail.do?cotId=57683b67-4a01-4509-9470-4023791db136",
+      "https://access.visitkorea.or.kr/ms/detail.do?cotId=48a975c0-68b9-417f-87c3-eb39028507ff"
+    ],
+    "kind": "original diagram based on published facility positions; not a walking route",
+    "official_illustration_republished": false
+  }
+}
