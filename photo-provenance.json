@@ -1,0 +1,29 @@
+{
+  "additional": [
+    {
+      "venue": "aqua",
+      "image_url": "https://access.visitkorea.or.kr/bfvk_img/call?cmd=VIEW&id=c99a40d3-7d86-4f95-93dc-84e3351c40f1&v=02142140",
+      "source_page": "https://access.visitkorea.or.kr/ms/detail.do?cotId=31240b61-5ec1-4842-9269-0526426ee300"
+    },
+    {
+      "venue": "aqua",
+      "image_url": "https://access.visitkorea.or.kr/bfvk_img/call?cmd=VIEW&id=c6660226-d62c-4f43-ab5e-1cb3faac8840&v=03002834",
+      "source_page": "https://access.visitkorea.or.kr/ms/detail.do?cotId=31240b61-5ec1-4842-9269-0526426ee300"
+    },
+    {
+      "venue": "museum",
+      "image_url": "https://access.visitkorea.or.kr/bfvk_img/call?cmd=VIEW&id=0595343a-fafb-4aa9-a6f7-c04c23b43bd3&v=10150854",
+      "source_page": "https://access.visitkorea.or.kr/ms/detail.do?cotId=7d098879-9fd1-4b7a-b350-1815a4271deb"
+    },
+    {
+      "venue": "museum",
+      "image_url": "https://access.visitkorea.or.kr/bfvk_img/call?cmd=VIEW&id=ee0fd4fb-b16a-4237-aca8-1303b8973d2a&v=10135152",
+      "source_page": "https://access.visitkorea.or.kr/ms/detail.do?cotId=7d098879-9fd1-4b7a-b350-1815a4271deb"
+    }
+  ],
+  "sangam": "https://korean.visitseoul.net/nature/월드컵공원/KOP002116",
+  "sangam_images": [
+    "https://korean.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=67597&fileTy=MEDIA&fileNo=2&thumbTy=L",
+    "https://korean.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=67598&fileTy=MEDIA&fileNo=3&thumbTy=L"
+  ]
+}
